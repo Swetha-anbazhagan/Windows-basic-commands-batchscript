@@ -28,7 +28,8 @@ Create a directory named "my-folder"
 mkdir my-folder
 
 ```
-<img width="492" height="39" alt="image" src="https://github.com/user-attachments/assets/d6d9927b-05e8-4b09-ba84-028a5e33b2b0" />
+<img width="772" height="243" alt="image" src="https://github.com/user-attachments/assets/9cc6b0ce-6a53-47ac-b281-becc6e10ca1e" />
+
 
 
 ## COMMAND AND OUTPUT
@@ -40,7 +41,8 @@ rmdir my-folder
 
 ```
 
-<img width="492" height="39" alt="image" src="https://github.com/user-attachments/assets/40c765d4-5aa1-4f66-b76a-b600f470465a" />
+<img width="488" height="235" alt="image" src="https://github.com/user-attachments/assets/392857bf-0668-47ec-af75-9528f2b8bc04" />
+
 
 
 ## COMMAND AND OUTPUT
@@ -51,7 +53,8 @@ Create the file Rose.txt
 ```
 type nul > Rose.txt
 ```
-<img width="484" height="32" alt="image" src="https://github.com/user-attachments/assets/99712aa4-320a-4a10-be56-1453077283d6" />
+
+<img width="758" height="96" alt="image" src="https://github.com/user-attachments/assets/fb066baa-9096-4ffb-a852-52da78e229d5" />
 
 
 ## COMMAND AND OUTPUT
@@ -62,7 +65,8 @@ Create the file hello.txt using echo and redirection
 ```
 echo Hello World > hello.txt
 ```
-<img width="484" height="32" alt="image" src="https://github.com/user-attachments/assets/db01a7ac-140a-44c6-b1cd-1d23631a4a22" />
+<img width="600" height="113" alt="image" src="https://github.com/user-attachments/assets/a4105850-97e4-4318-b50c-5896794bd28e" />
+
 
 
 ## COMMAND AND OUTPUT
@@ -72,7 +76,8 @@ Copy the file hello.txt into the file hello1.txt
 ```
 copy hello.txt hello1.txt
 ```
-https://private-user-images.githubusercontent.com/182321167/565663860-c2351289-dca1-4f6b-a877-dab3d1f8dd2e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MTA2ODcsIm5iZiI6MTc3MzkxMDM4NywicGF0aCI6Ii8xODIzMjExNjcvNTY1NjYzODYwLWMyMzUxMjg5LWRjYTEtNGY2Yi1hODc3LWRhYjNkMWY4ZGQyZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQwODUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04OGEzZGFlMGRmMDYzMWRmMDFiMjQwZjBjYzkyYzU1ZGM3MWU1ZjhhZjAxNTNmYTBhODE4MmFjOGRjMWMyMmVlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.XWUnsOTR-z49r_HTjfpU27hp9TtQDWlE8-QHc35rXek
+<img width="593" height="144" alt="image" src="https://github.com/user-attachments/assets/6330e504-e779-4b3f-84ff-6c3e46a227d8" />
+
 
 ## COMMAND AND OUTPUT
 
@@ -81,7 +86,8 @@ Remove the file hello1.txt
 ```
 del hello1.txt
 ```
-https://private-user-images.githubusercontent.com/182321167/565663970-73c544c3-9ffc-4409-a0c2-8bd310b3149d.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MTA2ODcsIm5iZiI6MTc3MzkxMDM4NywicGF0aCI6Ii8xODIzMjExNjcvNTY1NjYzOTcwLTczYzU0NGMzLTlmZmMtNDQwOS1hMGMyLThiZDMxMGIzMTQ5ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQwODUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NzcwYjk0MGVlNGRjMzg5NzM0MWQxNmNjZGQ0OTU0NDg3MDI5MjQxNjU1Yzg4ZGQzNDI3MTk0ZTUxM2QzNzY3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.BJ8yuD4VHe8Wo7x9BFBlBqqYMeVMfwI3xy7abiq3_-g
+
+<img width="644" height="237" alt="image" src="https://github.com/user-attachments/assets/580d3e26-7df2-46d1-b892-ae1ebc5b6b40" />
 
 
 ## COMMAND AND OUTPUT
@@ -91,7 +97,7 @@ List out the file hello1.txt in the current directory
 ```
 dir hello1.txt
 ```
-https://private-user-images.githubusercontent.com/182321167/565664067-4423a77d-ab7f-4ad2-ab36-41d4f46c195f.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MTA2ODcsIm5iZiI6MTc3MzkxMDM4NywicGF0aCI6Ii8xODIzMjExNjcvNTY1NjY0MDY3LTQ0MjNhNzdkLWFiN2YtNGFkMi1hYjM2LTQxZDRmNDZjMTk1Zi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQwODUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYjQ1YjQ5Mzk5MTQyMmFjNzc0MTlhNjVhZGQ0MzcxMWVkYTJjMjc4YzZjNDViYzNhYmRhZWE4ODE1Yzc3NGRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Ry1WYVoNm2OkrEpnuYETnGg6E7HIOOvFUMyJhvYdm8k
+<img width="463" height="183" alt="image" src="https://github.com/user-attachments/assets/8034e202-f6a6-485b-b634-3387b67fc5af" />
 
 ## COMMAND AND OUTPUT
 
@@ -100,7 +106,7 @@ List out all the associated file extensions
 ```
 assoc
 ```
-https://private-user-images.githubusercontent.com/182321167/565664162-956e9fd4-5566-4ef1-9fd0-378b857b8de4.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MTA2ODcsIm5iZiI6MTc3MzkxMDM4NywicGF0aCI6Ii8xODIzMjExNjcvNTY1NjY0MTYyLTk1NmU5ZmQ0LTU1NjYtNGVmMS05ZmQwLTM3OGI4NTdiOGRlNC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQwODUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01ZmIyM2ViOTBkMjAxN2UwNjU2MDY0MmI3NzQzY2U3ZGNkYjQxZTY1MjcxNzdiNDM2MjJkODBlNjdjMjViM2VhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3S_M2Tm3byW-E_hKysS9_fV4Eg9MgAbI5nQfMUA-uSM
+<img width="568" height="610" alt="image" src="https://github.com/user-attachments/assets/87ca4a88-22a9-41be-8ec8-6f72a32aee28" />
 
 ## COMMAND AND OUTPUT
 
@@ -111,18 +117,23 @@ Compare the file hello.txt and rose.txt
 fc hello.txt Rose.txt
 ```
 
-https://private-user-images.githubusercontent.com/182321167/565664642-19ab1fc8-1c33-4031-9cb7-085e7953a670.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MTA2ODcsIm5iZiI6MTc3MzkxMDM4NywicGF0aCI6Ii8xODIzMjExNjcvNTY1NjY0NjQyLTE5YWIxZmM4LTFjMzMtNDAzMS05Y2I3LTA4NWU3OTUzYTY3MC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMzE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDMxOVQwODUzMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYWY0MDlmMzQ5MjM1MTA4MDI2ZDFlOThlMTM4ODIzMGEzYTdhNmY1ZGE3NTJhYWEzMDI1MTZlMTEwOGIyNjgwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.7hP_7ChIdkF3FBOhqR-uZWx46hOkYiIavG8cSkmOG6M
+<img width="574" height="189" alt="image" src="https://github.com/user-attachments/assets/3d37a249-0cae-4e32-891c-070dd45be5ae" />
+
 
 ## COMMAND AND OUTPUT
 
 ## Exercise 2: Advanced Batch Scripting
 Create a batch file named on the desktop. The batch file need to have a variable assigned with a desired name for ex. name="John" and display as "Hello, John".
 
-
-
-
+```
+@echo off
+set name=Saveetha
+echo Hello, %name%!
+pause
+```
 
 ## OUTPUT
+<img width="672" height="98" alt="image" src="https://github.com/user-attachments/assets/b0d7ea6b-6ab1-49fd-b8ba-3eece5d87352" />
 
 
 
@@ -134,19 +145,49 @@ Ask the user if they want to check another number.
 Repeat the process if the user enters Y, and exit with a thank-you message if the user enters N.
 Handle invalid inputs for the continuation prompt (Y/N) gracefully.
 
+```
+@echo off
+:main
+set /p number=Enter a number: 
+rem Calculate remainder when divided by 2
+set /a remainder=%number% %% 2
+if %remainder%==1 (
+    echo %number% is an odd number.
+) else (
+    echo %number% is not an odd number.
+)
+:choice
+set /p continue=Do you want to check another number? (Y/N): 
+if /i "%continue%"=="Y" goto main
+if /i "%continue%"=="N" goto end
+echo Invalid choice, please enter Y or N.
+goto choice
+:end
+echo Thank you for using the odd number checker!
+pause
+
+```
 
 
 ## OUTPUT
 
+<img width="679" height="186" alt="image" src="https://github.com/user-attachments/assets/5a74cc9a-9ef6-4895-b348-11660acdeed7" />
 
 
 
 Write a batch file that uses a FOR loop to iterate over a sequence of numbers (1 to 5) and displays each number with the label Number:. The output should pause at the end.
 
-
-
+```
+@echo off
+for %%i in (1 2 3 4 5) do (
+    echo Number: %%i
+)
+pause
+```
 
 ## OUTPUT
+
+<img width="690" height="172" alt="image" src="https://github.com/user-attachments/assets/e3b4cd8f-9e26-4e73-b633-fbac88dc413a" />
 
 
 
@@ -159,7 +200,19 @@ Make sure the script works for files located in the same directory as the batch 
 Use pause to keep the command window open after displaying the message.
 Expected Output (if the file exists):
 
+```
+@echo off
+if exist sample.txt (
+    echo sample.txt exists.
+) else (
+    echo sample.txt does not exist.
+)
+pause
+
+```
+
 ## OUTPUT
+<img width="605" height="98" alt="image" src="https://github.com/user-attachments/assets/4d14b6dc-5826-4d2a-9866-c70649b59b5b" />
 
 
 Write a batch script that displays a simple menu with three options:
@@ -168,9 +221,35 @@ Create a File – Creates a file named newfile.txt with the content This is a ne
 Exit – Exits the script with a goodbye message
 The script should repeatedly display the menu until the user chooses to exit. Use goto statements to handle menu navigation.
 
+```
+
+@echo off
+:menu
+echo 1. Say Hello
+echo 2. Create a File
+echo 3. Exit
+set /p choice=Choose an option: 
+if "%choice%"=="1" goto hello
+if "%choice%"=="2" goto createfile
+if "%choice%"=="3" goto end
+
+:hello
+echo Hello, World!
+goto menu
+
+:createfile
+echo Creating a file...
+echo This is a new file > newfile.txt
+goto menu
+:end
+echo Goodbye!
+pause
+
+```
 
 ## OUTPUT
 
+<img width="629" height="407" alt="image" src="https://github.com/user-attachments/assets/15ceb65c-c174-4c45-a5f9-b0035066ebee" />
 
 
 # RESULT:
